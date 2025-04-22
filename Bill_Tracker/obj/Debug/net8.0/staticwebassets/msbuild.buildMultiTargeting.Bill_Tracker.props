@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Bill_Tracker.props" />
+</Project>
